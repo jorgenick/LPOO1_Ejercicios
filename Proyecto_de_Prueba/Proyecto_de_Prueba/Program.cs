@@ -12,6 +12,7 @@ namespace Proyecto_de_Prueba
 
             Console.WriteLine("este es mi primer proyecto de prueba");
             Console.WriteLine("estamos probando el puente con al maquina virtual");
+            Console.WriteLine("probando la maquina virtual");
         }
     }
 }
