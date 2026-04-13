@@ -3,3 +3,8 @@ E:\LPOO1_Ejercicios\Proyecto_de_Prueba\Proyecto_de_Prueba\bin\Debug\Proyecto_de_
 E:\LPOO1_Ejercicios\Proyecto_de_Prueba\Proyecto_de_Prueba\bin\Debug\Proyecto_de_Prueba.pdb
 E:\LPOO1_Ejercicios\Proyecto_de_Prueba\Proyecto_de_Prueba\obj\x86\Debug\Proyecto_de_Prueba.exe
 E:\LPOO1_Ejercicios\Proyecto_de_Prueba\Proyecto_de_Prueba\obj\x86\Debug\Proyecto_de_Prueba.pdb
+D:\LPOO1_Ejercicios\Proyecto_de_Prueba\Proyecto_de_Prueba\obj\x86\Debug\Proyecto_de_Prueba.exe
+D:\LPOO1_Ejercicios\Proyecto_de_Prueba\Proyecto_de_Prueba\obj\x86\Debug\Proyecto_de_Prueba.pdb
+D:\LPOO1_Ejercicios\Proyecto_de_Prueba\Proyecto_de_Prueba\bin\Debug\Proyecto_de_Prueba.exe
+D:\LPOO1_Ejercicios\Proyecto_de_Prueba\Proyecto_de_Prueba\bin\Debug\Proyecto_de_Prueba.pdb
+D:\LPOO1_Ejercicios\Proyecto_de_Prueba\Proyecto_de_Prueba\obj\x86\Debug\ResolveAssemblyReference.cache

@@ -29,6 +29,13 @@ namespace Proyecto_de_Prueba
 
             Console.WriteLine("LA SUMA ES IGUAL A " + SumarNumeros(numero1i, numero2i));
             Console.ReadKey();
+
+
+            Pieza pieza = new Pieza();
+
+            pieza.EmitirMensaje();
+            Console.ReadKey();
+
         }
 
         public static int SumarNumeros(int numero1, int numero2)
