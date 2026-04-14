@@ -1,0 +1,5 @@
+E:\Proyecto_de_Prueba\Ejercicios_Clase_2\bin\Debug\Ejercicios_Clase_2.exe
+E:\Proyecto_de_Prueba\Ejercicios_Clase_2\bin\Debug\Ejercicios_Clase_2.pdb
+E:\Proyecto_de_Prueba\Ejercicios_Clase_2\obj\x86\Debug\ResolveAssemblyReference.cache
+E:\Proyecto_de_Prueba\Ejercicios_Clase_2\obj\x86\Debug\Ejercicios_Clase_2.exe
+E:\Proyecto_de_Prueba\Ejercicios_Clase_2\obj\x86\Debug\Ejercicios_Clase_2.pdb

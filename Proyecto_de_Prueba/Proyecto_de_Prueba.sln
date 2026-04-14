@@ -3,6 +3,8 @@ Microsoft Visual Studio Solution File, Format Version 11.00
 # Visual Studio 2010
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Proyecto_de_Prueba", "Proyecto_de_Prueba\Proyecto_de_Prueba.csproj", "{FB7B2E1E-9748-43CA-A9E0-F826623DA98A}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Ejercicios_Clase_2", "Ejercicios_Clase_2\Ejercicios_Clase_2.csproj", "{4128EA70-13D2-40D0-976D-FE5A174BFABC}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|x86 = Debug|x86
@@ -13,6 +15,10 @@ Global
 		{FB7B2E1E-9748-43CA-A9E0-F826623DA98A}.Debug|x86.Build.0 = Debug|x86
 		{FB7B2E1E-9748-43CA-A9E0-F826623DA98A}.Release|x86.ActiveCfg = Release|x86
 		{FB7B2E1E-9748-43CA-A9E0-F826623DA98A}.Release|x86.Build.0 = Release|x86
+		{4128EA70-13D2-40D0-976D-FE5A174BFABC}.Debug|x86.ActiveCfg = Debug|x86
+		{4128EA70-13D2-40D0-976D-FE5A174BFABC}.Debug|x86.Build.0 = Debug|x86
+		{4128EA70-13D2-40D0-976D-FE5A174BFABC}.Release|x86.ActiveCfg = Release|x86
+		{4128EA70-13D2-40D0-976D-FE5A174BFABC}.Release|x86.Build.0 = Release|x86
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
