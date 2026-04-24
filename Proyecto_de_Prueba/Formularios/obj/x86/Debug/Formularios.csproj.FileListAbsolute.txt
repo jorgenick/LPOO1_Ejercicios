@@ -1,0 +1,9 @@
+E:\Proyecto_de_Prueba\Formularios\bin\Debug\Formularios.exe
+E:\Proyecto_de_Prueba\Formularios\bin\Debug\Formularios.pdb
+E:\Proyecto_de_Prueba\Formularios\obj\x86\Debug\ResolveAssemblyReference.cache
+E:\Proyecto_de_Prueba\Formularios\obj\x86\Debug\Formularios.Properties.Resources.resources
+E:\Proyecto_de_Prueba\Formularios\obj\x86\Debug\GenerateResource.read.1.tlog
+E:\Proyecto_de_Prueba\Formularios\obj\x86\Debug\GenerateResource.write.1.tlog
+E:\Proyecto_de_Prueba\Formularios\obj\x86\Debug\Formularios.exe
+E:\Proyecto_de_Prueba\Formularios\obj\x86\Debug\Formularios.pdb
+E:\Proyecto_de_Prueba\Formularios\obj\x86\Debug\Formularios.Form1.resources

@@ -5,6 +5,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Proyecto_de_Prueba", "Proye
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Ejercicios_Clase_2", "Ejercicios_Clase_2\Ejercicios_Clase_2.csproj", "{4128EA70-13D2-40D0-976D-FE5A174BFABC}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Formularios", "Formularios\Formularios.csproj", "{F041620B-7172-405E-AE19-5D0833215045}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|x86 = Debug|x86
@@ -19,6 +21,10 @@ Global
 		{4128EA70-13D2-40D0-976D-FE5A174BFABC}.Debug|x86.Build.0 = Debug|x86
 		{4128EA70-13D2-40D0-976D-FE5A174BFABC}.Release|x86.ActiveCfg = Release|x86
 		{4128EA70-13D2-40D0-976D-FE5A174BFABC}.Release|x86.Build.0 = Release|x86
+		{F041620B-7172-405E-AE19-5D0833215045}.Debug|x86.ActiveCfg = Debug|x86
+		{F041620B-7172-405E-AE19-5D0833215045}.Debug|x86.Build.0 = Debug|x86
+		{F041620B-7172-405E-AE19-5D0833215045}.Release|x86.ActiveCfg = Release|x86
+		{F041620B-7172-405E-AE19-5D0833215045}.Release|x86.Build.0 = Release|x86
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

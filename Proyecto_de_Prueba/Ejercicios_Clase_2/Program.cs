@@ -53,9 +53,28 @@ namespace Ejercicios_Clase_2
             //Console.ReadLine();
 
 
-            Herramientas h = new Herramientas();
-            h.Ingreso_de_Numeros();
+            //Herramientas h = new Herramientas();
+            //h.Ingreso_de_Numeros();
 
+
+
+            Pieza pieza1 = new Pieza("pieza1","acero",5);
+            Pieza pieza2 = new Pieza("pieza2", "acero", 5);
+            Pieza pieza3 = new Pieza("pieza3", "acero", 5);
+
+
+            List<Pieza> lista = new List<Pieza>();
+
+            lista.Add(pieza1);
+            lista.Add(pieza2);
+            lista.Add(pieza3);
+
+            foreach (Pieza item in lista)
+            {
+                Console.WriteLine(item.Id);
+            }
+
+            Console.ReadLine();
 
         }
     }
