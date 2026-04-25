@@ -74,6 +74,8 @@ namespace Ejercicios_Clase_2
                 Console.WriteLine(item.Id);
             }
 
+            pieza1.MostrarListaNumerica();
+
             Console.ReadLine();
 
         }
