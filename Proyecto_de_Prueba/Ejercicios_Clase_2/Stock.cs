@@ -13,6 +13,9 @@ namespace Ejercicios_Clase_2
         : base(nombre, tipo, cantidad)
         {
             this.Espesor = espesor;
+            Console.WriteLine("RAMA1");
+            Console.WriteLine("RAMA2");
+
         }
 
     }
