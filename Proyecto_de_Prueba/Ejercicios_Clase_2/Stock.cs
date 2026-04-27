@@ -12,8 +12,10 @@ namespace Ejercicios_Clase_2
      public Stock(string nombre, string tipo, int cantidad, double espesor) 
         : base(nombre, tipo, cantidad)
         {
+            Console.WriteLine("esta es una prueba para trabajar con ramas");
             this.Espesor = espesor;
         }
+
 
     }
 }
